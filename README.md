@@ -2,6 +2,5 @@
 
 _Pronounced like the food_
 
-i like nixos, make a few websites, a minecraft mod, and some neovim plugins
-
 - [@marshmallow2517](https://twitter.com/marshmallow2517)
+- [@marshmallow:althaea.zone](https://matrix.to/#/@marshmallow:althaea.zone)
